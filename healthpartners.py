@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import re
-import re # For custom snake_case function
+import re # For snake_case function
 
 # Define snake_case function
 def to_snake_case(name):
